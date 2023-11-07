@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarala&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    background: #778899;
+}
+
+.container-1{
+    background-color: #B0C4DE;
+}
+
+.global{
+    padding-top: 3px;
+    margin-left: 19px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+}
+.elemento2{
+    font-family: 'Sarala', sans-serif;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+
+}
+
+.estrutura{
+    margin-top: 100px;
+    margin-left: 130px;
+    background-color: #C0C0C0;
+    width: 700px;
+    height: 500px;
+    max-width: 100%;
+    border-radius: 1%;
+}
+
+.tudo{
+    float: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 450px;
+    padding-top: 20px;
+}
+
+.tudo h1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: 'Sarala', sans-serif;
+    font-size: 3vh;
+}
+
+.contador{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.btn1{
+    width: 200px;
+    height: 50px;
+    font-family: 'Sarala', sans-serif;
+    font-size: 20px;
+    background-color: #A9A9A9;
+    color: black;
+    border-color: black;
+}
+
+.btn2{
+    width: 50px;
+    height: 50px;
+    background-color: #A9A9A9;
+    color: black;
+    border-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Sarala', sans-serif;
+    font-size: 16px;
+}
+
+.btn3{
+    width: 50px;
+    height: 50px;
+    background-color: #A9A9A9;
+    color: black;
+    border-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Sarala', sans-serif;
+    font-size: 16px;
+}
+
+
+.b2{
+    padding-left: 30px;
+}
+
+.b3{
+    padding-left: 30px;
+}
+
+.final img {
+    margin-top: .5rem;
+    margin-left: 1.1rem;
+    width: 48px;
+  }
+  
+  .fim{
+    margin-top: 197px;
+   background: #B0C4DE;
+   overflow-y: hidden;
+  }
